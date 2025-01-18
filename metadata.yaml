@@ -1,0 +1,26 @@
+_repo: Az-elet-kapuja-b-Elbeszeles_75035
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Herczeg, Ferenc
+    gutenberg_agent_id: '57788'
+    url: http://www.gutenberg.org/2009/agents/57788
+description: ''
+gutenberg_issued: '2025-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75035'
+language: hu
+pgterms:marc905: 20250103093420herczeg
+pgterms:marc906: '1920'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Hungarian
+  Electronic Library
+publication_note: '  $aBudapest :$bSinger és Wolfner, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Az élet kapuja : $b Elbeszélés'
+url: http://www.gutenberg.org/ebooks/75035
